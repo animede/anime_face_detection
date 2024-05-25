@@ -17,3 +17,5 @@ source tkh/bin/activate
 cd tkh
 pip install -r requirements.txt
 ```
+
+ライセンス　MIT
