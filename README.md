@@ -1,4 +1,4 @@
-# anime_face_detection
+# Anime_face_detection
 
 厳選した学習データセットを用いて独自に学習したモデルを利用する高精度アニメ顔検出SSDです。
 
