@@ -18,4 +18,11 @@ cd tkh
 pip install -r requirements.txt
 ```
 
+checkポイントのダウンロード
+
+https://huggingface.co/UZUKI/webapp1/tree/main
+
+ssd_best8.pth　をダウンロードして　weightsに移動させる
+
+
 ライセンス　MIT
