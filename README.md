@@ -1,5 +1,10 @@
 # anime_face_detection
 
+厳選した学習データセットを用いた高制度アニメ顔検出SSDです。
+
+検出タグ　girl　boy　big　small　
+
+コンフィデンスレベル
 
 環境構築
 
