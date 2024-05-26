@@ -10,7 +10,8 @@
 
 ### 参考
 
-tkh作成後　リポジトリから　requirements.txt　をコピーします
+tkh作成後　リポジトリから作成したtkhへrequirements.txt　をコピーします
+または仮想環境をアクティベート後にリポへ移動してpip install -r requirements.txt
 ```
 python3.11 -m venv tkh
 source tkh/bin/activate
